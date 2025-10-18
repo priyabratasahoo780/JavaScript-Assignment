@@ -7,4 +7,4 @@ let evenIndicesArray = originalArray.filter((element, index) => index % 2 === 0)
 
 console.log(evenIndicesArray);  
 
-
+u5y5
